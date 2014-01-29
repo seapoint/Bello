@@ -1279,7 +1279,7 @@
 		  <animation effect="fade" end="100" time="350" tween="sine" easing="inout" condition="Control.HasFocus(10)">Visible</animation>
 		  <animation effect="fade" end="0" time="350" tween="sine" easing="inout" condition="!Control.HasFocus(10)">Hidden</animation>
       <visible>Control.HasFocus(10)</visible>
-			<control type="image.">
+			<control type="image">
 		    <posx>-108</posx>
 		    <posy>5</posy>
 		    <width>96</width>
